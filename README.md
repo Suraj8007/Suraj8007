@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
-- 📫 You can reach me at **gauravkishortambe@gmail.com**
+- 📫 You can reach me at **surajughade5@gmail.com**
 
 - ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.**
 
