@@ -1,5 +1,5 @@
 # Overview
-<h1 align="center">Hi 👋, I'm Gaurav!</h1>
+<h1 align="center">Hi 👋, I'm Suraj!</h1>
 <h3 align="center">A self-motivated Javascript developer from India</h3>
 
 - 🔭 I’m currently working on **projects built on MERN stack**
