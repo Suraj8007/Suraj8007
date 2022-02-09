@@ -1,4 +1,3 @@
-# Overview
 <h1 align="center">Hi 👋, I'm Suraj!</h1>
 <h3 align="center">A self-motivated Javascript developer from India</h3>
 
@@ -7,8 +6,6 @@
 - 🌱 My learning wish-list includes **Generative art, WebGL and Three.js**
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
-
-- 👨‍💻 Know more about me at [gauravtambe.com](gauravtambe.com)
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
