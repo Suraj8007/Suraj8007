@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj!</h1>
 <h3 align="center">A self-motivated Javascript developer from India</h3>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=coral&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **projects built on MERN stack**
 
 - 🌱 My learning wish-list includes **Generative art, WebGL and Three.js**
