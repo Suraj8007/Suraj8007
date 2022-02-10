@@ -26,11 +26,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/suraj-ugahde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravtambe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/suraj.ughade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravtambe13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/surajughade5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravtambe" height="30" width="40" /></a>
-<a href="https://leetcode.com/surajughade5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tambegaurav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraj-ugahde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajughade" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suraj.ughade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj-ughade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/surajughade5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajughade" height="30" width="40" /></a>
+<a href="https://leetcode.com/surajughade5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ughadesuraj" height="30" width="40" /></a>
 </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suraj8007&show_icons=true&locale=en" alt="Suraj8007" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambegaurav&show_icons=true&locale=en" alt="tambegaurav" /></p>
 <br/>
