@@ -32,8 +32,8 @@
 <a href="https://leetcode.com/surajughade5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ughadesuraj" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suraj8007&show_icons=true&locale=en" alt="Suraj8007" /></p>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang999&show_icons=true&locale=en&layout=compact" alt="sarang999" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suraj8007&show_icons=true&locale=en" alt="Suraj8007" /></p>
+</div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambegaurav&show_icons=true&locale=en" alt="tambegaurav" /></p>
 <br/>
