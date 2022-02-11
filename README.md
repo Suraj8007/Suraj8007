@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
+- 👨‍💻 Know more about me at [https://suraj-ughade.netlify.app/](https://suraj-ughade.netlify.app/)
+
 - 💬 Ask me about **javascript, react and mongoDb**
 
 - 📫 You can reach me at **surajughade5@gmail.com**
@@ -37,7 +39,3 @@
 </p>
 
 
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambegaurav&show_icons=true&locale=en" alt="tambegaurav" /></p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tambegaurav&show_icons=true&locale=en&layout=compact" alt="tambegaurav" /></p> -->
