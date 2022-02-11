@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
-- 👨‍💻 Know more about me at [https://suraj-ughade.netlify.app/](https://suraj-ughade.netlify.app/)
+- 👨‍💻 Know more about me at [suraj-portfolio.com](https://suraj-ughade.netlify.app/)
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
