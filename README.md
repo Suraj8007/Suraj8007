@@ -25,8 +25,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 >Connect with me:</h3>
+<p>
 
 <a href="https://www.linkedin.com/in/suraj-ugahde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajughade" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suraj.ughade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj-ughade" height="30" width="40" /></a>
