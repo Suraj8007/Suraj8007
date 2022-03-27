@@ -25,6 +25,9 @@
 
 <div><p>&nbsp;</p><p>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+  <p  align="center"><img width="50%" border="1" margin-bottom= "30" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suraj8007&show_icons=true&locale=en&layout=compact" alt="Suraj8007"  /></p>
+
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suraj8007&show_icons=true&theme=radical" alt="Suraj8007" /></p>
 </div>
 
