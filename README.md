@@ -5,11 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **projects built on MERN stack**
 
-- 🌱 My learning wish-list includes **Generative art, WebGL and Three.js**
-
-- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
 - 👨‍💻 Know more about me at [suraj-portfolio.com](https://suraj-ughade.netlify.app/)
 
