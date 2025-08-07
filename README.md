@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj!</h1>
-<h3 align="center">A self-motivated Javascript developer from India</h3>
+<h3 align="center">A Javascript developer from India</h3>
 
 
 
